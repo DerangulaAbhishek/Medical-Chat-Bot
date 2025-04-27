@@ -27,7 +27,7 @@ The Medical Chatbot is a web-based application developed using HTML, CSS, and Ja
 
 ## Demo
 
-You can find a live demo of the Medical Chatbot [click here](https://tarunkumarreddyk.github.io/MedicalChatBot/).
+You can find a live demo of the Medical Chatbot [click here](https://derangulaabhishek.github.io/Medical-Chat-Bot/).
 
 ![Medical Chatbot Demo](demo.gif)
 
@@ -35,7 +35,7 @@ You can find a live demo of the Medical Chatbot [click here](https://tarunkumarr
 
 To run the Medical Chatbot locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/TarunKumarReddyK/medical-chatbot.git`
+1. Clone the repository: `git clone https://derangulaabhishek.github.io/Medical-Chat-Bot/`
 2. Navigate to the project directory: `cd medical-chatbot`
 3. Open `index.html` in your preferred web browser.
 
@@ -63,4 +63,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries or feedback, please contact Tarun Kumar Reddy K at k.tarunkumarreddy12@gmail.com.
+For any inquiries or feedback, please contact Abhishekd Derangula at abhishekderangula1305@gmail.com.
